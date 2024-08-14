@@ -1,0 +1,1 @@
+Built an interactive stock analysis chatbot using OpenAI's GPT-3.5-turbo.Integrated financial indicators including SMA, EMA, RSI and MACD using Yahoo Finance API.Engineered real-time stock price visualization and historical data plotting using Matplotlib.Utilized Streamlit for web application interface, allowing users to execute stock data queries
